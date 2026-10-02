@@ -2,6 +2,8 @@
 
 > **Alert / verify** — Automates SOC 2 and ISO 42001 evidence collection for agent activity.
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/agentsec-ecosystem/agentcomply/badge)](https://scorecard.dev/viewer/?uri=github.com/agentsec-ecosystem/agentcomply)
+
 Part of the [agentsec-ecosystem](https://github.com/agentsec-ecosystem) — open-source,
 harness-agnostic security for AI agents.
 
