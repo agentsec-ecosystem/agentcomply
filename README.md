@@ -1,7 +1,6 @@
-# <tool-name>
+# agentcomply
 
-> One-line description of what this tool does and which of the four capabilities it provides
-> (monitor / alert / block-limit / revoke).
+> **Alert / verify** — Automates SOC 2 and ISO 42001 evidence collection for agent activity.
 
 Part of the [agentsec-ecosystem](https://github.com/agentsec-ecosystem) — open-source,
 harness-agnostic security for AI agents.
